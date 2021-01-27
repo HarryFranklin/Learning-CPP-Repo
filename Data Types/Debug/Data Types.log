@@ -1,0 +1,3 @@
+﻿  Data Types.cpp
+C:\Users\hrfra\Desktop\Coding\VisualStudio\Data Types\Data Types.cpp(10,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Data Types.vcxproj -> C:\Users\hrfra\Desktop\Coding\VisualStudio\Data Types\Debug\Data Types.exe
